@@ -21,6 +21,3 @@ Landing Page modern dan elegan untuk usaha hijab. Dibuat dengan **Cloudflare Wor
 ## 🖼️ Sumber Gambar
 
 Semua gambar diambil dari [Freepik](https://freepik.com) & [Pexels](https://pexels.com), aman digunakan untuk demo/presentasi. Untuk penggunaan komersial, pastikan beri atribusi yang sesuai.
-
-## 📁 Struktur File
-
